@@ -25,3 +25,5 @@ To run the Konkour Study Planner locally on your machine:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/konkour-study-planner.git
+ or just click 
+[this] (https://amram841.github.io/study-planner-/)
